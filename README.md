@@ -3,7 +3,7 @@
 Here are the links to exercise solutions:
 
 1. [Exercise 1 Solution](insert_solution_link_here)
-2. [Exercise 2 Solution](insert_solution_link_here)
+2. [Exercise 2 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex2.ts)
 3. [Exercise 3 Solution](insert_solution_link_here)
 4. [Exercise 4 Solution](insert_solution_link_here)
 5. [Exercise 5 Solution](insert_solution_link_here)
