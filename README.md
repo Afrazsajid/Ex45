@@ -1,15 +1,15 @@
 # Exercise Solutions
 
 1. Exercise 1 Solution
-2. - Download nodejs and tsc
-3. [Exercise 2 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex2.ts)
-4. [Exercise 3 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex3.ts)
-5. [Exercise 4 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex4.ts)
-6. [Exercise 5 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex5.ts)
-7. [Exercise 6 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex6.ts)
-8. [Exercise 7 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex7.ts)
-9. [Exercise 8 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex8.ts)
-10. [Exercise 9 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex9.ts)
+ - Download nodejs and tsc
+2. [Exercise 2 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex2.ts)
+3. [Exercise 3 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex3.ts)
+4. [Exercise 4 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex4.ts)
+5. [Exercise 5 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex5.ts)
+6. [Exercise 6 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex6.ts)
+7. [Exercise 7 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex7.ts)
+8. [Exercise 8 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex8.ts)
+9. [Exercise 9 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex9.ts)
 11. [Exercise 10 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex10.ts)
 12. [Exercise 11 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex11.ts)
 13. [Exercise 12 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex12.ts)
