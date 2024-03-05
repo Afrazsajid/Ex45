@@ -11,7 +11,7 @@ Here are the links to exercise solutions:
 7. [Exercise 7 Solution](insert_solution_link_here)
 8. [Exercise 8 Solution](insert_solution_link_here)
 9. [Exercise 9 Solution](insert_solution_link_here)
-10. [Exercise 10 Solution](insert_solution_link_here)
+10. [Exercise 10 Solution](https://github.com/Afrazsajid/Ex45/blob/main/ex10.js)
 11. [Exercise 11 Solution](insert_solution_link_here)
 12. [Exercise 12 Solution](insert_solution_link_here)
 13. [Exercise 13 Solution](insert_solution_link_here)
